@@ -3,52 +3,9 @@ title: Save Our Symphony Pittsburgh
 layout: default
 ---
 
-<section class="box special">
-	<header class="major">
-		<h2>Why we need to Save our Symphony? 
-			<br />
-		</h2>
-		<p>
-			3 quick points go here.
-		</p>
-	</header>
-	
-	<div class="row">
-		<div class="4u">
+<a name="mission" />
 
-			<section class="box special">
-				<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
-				<h3>Sed lorem adipiscing</h3>
-				<p>...</p>
-			</section>
-
-		</div>
-		<div class="4u">
-
-			<section class="box special">
-				<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
-				<h3>Sed lorem adipiscing</h3>
-				<p>...</p>
-			</section>
-
-		</div>
-		
-		<div class="4u">
-
-			<section class="box special">
-				<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
-				<h3>Sed lorem adipiscing</h3>
-				<p>...</p>
-			</section>
-
-		</div>
-	</div>
-	
-	<!-- <span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic01.jpg" alt="" /></span> -->
-</section>
-
-
-<section class="box special">
+<section class="box special" >
 	<header class="major">
 		<h2>Our Mission
 		</h2>
@@ -60,12 +17,14 @@ layout: default
 		</p>
 		
 		<ul class="actions">
-			<li><a href="#" class="button alt">Learn More</a></li>
+			<li><a href="/mission" class="button alt">Learn More</a></li>
 		</ul>
 	</header>
 	
 </section>
 
+
+<a name="get-involved" />
 
 <section class="box special features">
 	<header class="major">
@@ -97,12 +56,15 @@ layout: default
 	</div>
 </section>
 
+<a name="board" />
+
+
 <section class="box special">
 	<header class="major">
 		<h2>Our Board
 		</h2>
 		<p>
-			We're made up of PSO patrons, audience advocates, listeners, donors, subscribers, business owners, community members and students. The one thing we have in common: our passion for this great orchestra a thriving andvital part of the fabric of our great city.
+			We're made up of PSO patrons, audience advocates, listeners, donors, subscribers, business owners, community members and students. The one thing we have in common: our passion for this great orchestra a thriving and vital part of the fabric of our great city.
 		</p>
 		
 		</header>
@@ -140,12 +102,14 @@ layout: default
 		</div>
 
 		<ul class="actions">
-			<li><a href="#" class="button alt">Learn More</a></li>
+			<li><a href="/mission#leadership" class="button alt">Learn More</a></li>
 		</ul>
 		
 	
 </section>
 
+<a name="news" />
+		
 		
 <div class="row">
 	<div class="12u">
@@ -185,6 +149,8 @@ layout: default
 
 </div>	
 
+<a name="contact" />
+
 
 <div class="row">
 	<div class="6u">
@@ -193,7 +159,7 @@ layout: default
 			<h3>Join Us</h3>
 			<p>Sign up to our mailing list for updates, info on rescue recitals and more</p>
 
-			Form goes here...
+			{% include mailchimp.html %}
 
 		</section>
 
@@ -202,8 +168,13 @@ layout: default
 
 		<section class="box special">
 			<h3>Make a donation</h3>
-			<p>Donate to SOS as we build a fund for musicians at the Pittsburgh Foundation.</p>
-			Form goes here...
+			<p>Donate to SOS as we build an independent fund at the Pittsburgh Foundation dedicated to supporting the PSO musicians. .</p>
+			
+
+			<ul class="actions">
+				<li><a href="https://squareup.com/store/save-our-symphony-pittsburgh/item/support-save-our-symphony" target="_blank" class="button">Donate Now</a>
+</li>
+			</ul>
 
 		</section>
 
@@ -214,15 +185,14 @@ layout: default
 	<header class="major">
 		<h2>Questions about SOS Pittsburgh?</h2>
 		<p>
-			Get in Touch
+			We'd love to hear from you! Use the form below to send us a message and we'll get back to you as soon as we can.
 		</p>
 	</header>
-	<p>
-		contact form here
-	</p>
+	{% include contact-form.html %}
 </section>
 	
 	
+<a name="upcoming-events" />
 
 		
 <div class="row">

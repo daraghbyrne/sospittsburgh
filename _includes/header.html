@@ -23,11 +23,14 @@
 			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style-desktop.css" />
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
+		
+		
 	</head>
 	{% if page.url == "/" %}
 		<!-- Banner -->
 		
 		<body class="landing">
+			<a name="top" ></a>
 			<section id="banner">
 				<img src="assets/images/logo.jpeg" width="50%" />
 				<br/>
@@ -40,6 +43,7 @@
 			</section>
 	{% else %}
 		<body>
+			<a name="top" ></a>
 			<section id="banner"></section>
 	{% endif %}
 	{% include nav.html %}

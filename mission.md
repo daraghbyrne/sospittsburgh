@@ -31,7 +31,10 @@ To achieve our mission and fulfill our vision, SOSP will be engaging the communi
 - Working with state and local elected officials on issues needing their attention 
 - Sharing our experiences with audience advocacy organizations in other communities having a similar mission
  
-### Our leadership team consists of:
+
+<a name="leadership"></a>
+
+###  Our leadership team consists of:
 
 - Alice Gelormino, Chair
 - Geoff McGovern, Vice Chair
