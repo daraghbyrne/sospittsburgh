@@ -203,42 +203,46 @@ layout: default
 		</header>
 	</div>
 
-	<div class="3u">
-
-		<section class="box special">
-			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
-			<h3>Concert Name</h3>
-			<p>Date</p>
-		</section>
-
+	<div id="#rss-feeds">
 	</div>
-	<div class="3u">
+	
 
-		<section class="box special">
-			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
-			<h3>Concert Name</h3>
-			<p>Date</p>
-		</section>
+		<div class="3u">
 
-	</div>
-	<div class="3u">
+			<section class="box special">
+				<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
+				<h3>Concert Name</h3>
+				<p>Date</p>
+			</section>
 
-		<section class="box special">
-			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
-			<h3>Concert Name</h3>
-			<p>Date</p>
-		</section>
+		</div>
+		<div class="3u">
 
-	</div>		
-	<div class="3u">
+			<section class="box special">
+				<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
+				<h3>Concert Name</h3>
+				<p>Date</p>
+			</section>
 
-		<section class="box special">
-			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
-			<h3>Concert Name</h3>
-			<p>Date</p>
-		</section>
+		</div>
+		<div class="3u">
 
-	</div>
+			<section class="box special">
+				<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
+				<h3>Concert Name</h3>
+				<p>Date</p>
+			</section>
+
+		</div>		
+		<div class="3u">
+
+			<section class="box special">
+				<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
+				<h3>Concert Name</h3>
+				<p>Date</p>
+			</section>
+
+		</div>
 </div>	
 
 
