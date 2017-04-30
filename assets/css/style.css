@@ -28,6 +28,15 @@
 		font-family: 'Montserrat', sans-serif;
 		
 	}
+	
+	.text-left{
+		text-align: left;
+	}
+	
+	p.small{
+		font-size: 0.85em;
+		line-height: 1.55em;
+	}
 
 	a {
 		-moz-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
@@ -1330,6 +1339,10 @@
 		background: #f0f0f0;
 		padding: 4em 0 6em 0;
 		text-align: center;
+		
+		width: 60em;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 		#footer .icons a {
@@ -1347,11 +1360,11 @@
 
 		#footer .copyright {
 			color: #999;
-			font-size: 0.9em;
-			line-height: 1em;
+			font-size: 0.85em;
+			line-height: 1.2em;
 			margin: 2em 0 0 0;
 			padding: 0;
-			text-align: center;
+			text-align: left;
 		}
 
 			#footer .copyright a {

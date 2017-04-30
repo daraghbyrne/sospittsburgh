@@ -153,7 +153,7 @@ layout: default
 
 
 <div class="row">
-	<div class="6u">
+	<div class="6u"> 
 
 		<section class="box special">
 			<h3>Join Us</h3>
@@ -176,7 +176,7 @@ layout: default
 </li>
 			</ul>
 
-		</section>
+		</section>   
 
 	</div>
 </div>
