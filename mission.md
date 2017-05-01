@@ -41,8 +41,6 @@ To achieve our mission and fulfill our vision, SOSP will be engaging the communi
 - Kathy Maskalick, Secretary
 - David Maskalick
 - Gillian Cannell
-- Mark Malick
-- Stephanie Swoveland
 - Mark Ozark
 - Connie Phillips
 - Randy Whatley
