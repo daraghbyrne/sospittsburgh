@@ -36,13 +36,18 @@ To achieve our mission and fulfill our vision, SOSP will be engaging the communi
 
 ###  Our leadership team consists of:
 
+__Board__
+
 - Alice Gelormino, Chair
-- Geoff McGovern, Vice Chair
-- Kathy Maskalick, Secretary
-- David Maskalick
+- Geoffrey McGovern, Vice Chair
+- Kathy Maskalick, Treasurer
+- David Maskalick, Secretary
 - Gillian Cannell
-- Mark Ozark
 - Connie Phillips
+
+__with__
+
+- Mark Ozark
 - Randy Whatley
 
 -----

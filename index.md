@@ -74,7 +74,7 @@ layout: default
 			<div class="4u">
 
 				<section class="box special">
-					<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
+					<!--<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>-->
 					<h3>Alice Gelormino</h3>
 					<p>Chair</p>
 				</section>
@@ -83,7 +83,7 @@ layout: default
 			<div class="4u">
 
 				<section class="box special">
-					<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
+					<!--<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>-->
 					<h3>Geoff McGovern</h3>
 					<p> Vice Chair</p>
 				</section>
@@ -93,12 +93,43 @@ layout: default
 			<div class="4u">
 
 				<section class="box special">
-					<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
+					<!--<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>-->
 					<h3>Kathy Maskalick</h3>
 					<p>Secretary</p>
 				</section>
 
 			</div>
+			
+			<div class="4u">
+
+				<section class="box special">
+					<!--<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>-->
+					<h3>David Maskalick</h3>
+					<p>Secretary</p>
+				</section>
+
+			</div>
+			<div class="4u">
+
+				<section class="box special">
+					<!--<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>-->
+					<h3>Gillian Cannell</h3>
+					<p>  </p>
+				</section>
+
+			</div>
+		
+			<div class="4u">
+
+				<section class="box special">
+					<!--<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>-->
+					<h3>Connie Phillips</h3>
+					<p> </p>
+				</section>
+
+			</div>
+			
+			
 		</div>
 
 		<ul class="actions">
