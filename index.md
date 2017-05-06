@@ -24,6 +24,48 @@ layout: default
 </section>
 
 
+<a name="rescuerecitals" />
+		
+		
+ <div class="row">
+	<div class="12u">
+		<header class="major">
+			<h2>Rescue Recitals and Upcoming Events
+			</h2>
+		</header>
+	</div>
+
+	<div class="4u">
+
+		<section class="box special">
+			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
+			<h3>News Item Name</h3>
+			<p>Date</p>
+		</section>
+
+	</div>
+	<div class="4u">
+
+		<section class="box special">
+			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
+			<h3>News Item Name</h3>
+			<p>Date</p>
+		</section>
+
+	</div>
+	<div class="4u">
+
+		<section class="box special">
+			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
+			<h3>News Item Name</h3>
+			<p>Date</p>
+		</section>
+
+	</div>
+
+</div>
+
+
 <a name="get-involved" />
 
 <section class="box special features">
@@ -41,7 +83,7 @@ layout: default
 		</section>
 		<section>
 			<h3>2. Host a Rescue Recital</h3>
-			<p>Attend or host an SOS Pittsburgh Rescue Recital; an in-home concert where you get to experience world class music up close. <a href="#">Learn more</a></p>
+			<p>Attend or host an SOS Pittsburgh Rescue Recital; an in-home concert where you get to experience world class music up close. <a href="/rescuerecitals">Learn more</a></p>
 		</section>
 	</div>
 	<div class="features-row">

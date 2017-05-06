@@ -29,6 +29,7 @@
 		
 	}
 	
+
 	.text-left{
 		text-align: left;
 	}
@@ -779,6 +780,10 @@
 		margin: 0 0 2em 0;
 		width: 100%;
 	}
+	
+	.post table, .post tr, .post td{
+		text-align: left;
+	}
 
 		table tbody tr {
 			border: solid 1px #e5e5e5;
@@ -1456,3 +1461,13 @@
 		#cta .formerize-placeholder {
 			color: rgba(255, 255, 255, 0.75) !important;
 		}
+		
+		.post{
+			text-align: left;
+		}
+		
+		.box.special.post{
+			text-align: left;
+			
+		}
+			

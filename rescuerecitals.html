@@ -1,0 +1,45 @@
+---
+title: Rescue Recitals
+layout: default
+---
+
+
+<section class="box special">
+	<header class="major">
+		<h2>Rescue Recitals and Upcoming Events</h2>
+		
+		<p>Rescue Recitals are an in-home or small venue concert where you get to experience world class music and the musicians of the Pittsburgh Symphony Orchestra up close. </p>
+	</header>
+</section>
+	
+		{% for post in site.categories.events offset: 0 limit: 10 %}
+			<section class="box special post">
+			<h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+			<span class="date">{{ post.date | date_to_string }}</span>
+			<hr />
+				{{ post.content | strip_html | truncatewords: 50 }}
+			<ul class="actions">
+				<li><a href="{{ site.baseurl }}{{ post.url }}" class="button alt">Read more</a></li>
+			</ul>
+			</section>
+		{% endfor %}
+		
+<section class="box special">
+		<div class="pagination">
+		  {% if paginator.next_page %}
+		    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
+		  {% else %}
+		    <span class="pagination-item older">Older</span>
+		  {% endif %}
+		  {% if paginator.previous_page %}
+		    {% if paginator.page == 2 %}
+		      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+		    {% else %}
+		      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
+		    {% endif %}
+		  {% else %}
+		    <span class="pagination-item newer">Newer</span>
+		  {% endif %}
+		</div>
+</section>
+
