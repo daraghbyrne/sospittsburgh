@@ -64,7 +64,7 @@ layout: default
 		<h2>Our Board
 		</h2>
 		<p>
-			We're made up of PSO patrons, audience advocates, listeners, donors, subscribers, business owners, community members and students. The one thing we have in common: our passion for this great orchestra a thriving and vital part of the fabric of our great city.
+			We're made up of PSO patrons, audience advocates, listeners, donors, subscribers, business owners, community members and students. The one thing we have in common: our passion for this great orchestra, and our desire to see it remain a thriving and vital part of the fabric of our great city.
 		</p>
 		
 		</header>
