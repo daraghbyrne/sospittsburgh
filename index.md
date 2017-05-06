@@ -25,43 +25,29 @@ layout: default
 
 
 <a name="rescuerecitals" />
-		
-		
- <div class="row">
-	<div class="12u">
-		<header class="major">
-			<h2>Rescue Recitals and Upcoming Events
-			</h2>
-		</header>
-	</div>
+				
+<div class="row">
+<div class="12u">
+	<header class="major">
+		<h2>Rescue Recitals and Upcoming Events
+		</h2>
+	</header>
+</div>
 
+{% for post in site.categories.events offset: 0 limit: 3 %}
 	<div class="4u">
+	<section class="box special rescue-recital">
+		<!-- <span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span> -->
+		<h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+		<span class="date">{{ post.date | date_to_string }}</span>
+		<p>{{ post.description }}</p>
+		<ul class="actions">
+			<li><a href="{{ site.baseurl }}{{ post.url }}" class="button alt">View</a></li>
+		</ul>
+	</section>
+  </div>
+{% endfor %}
 
-		<section class="box special">
-			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
-			<h3>News Item Name</h3>
-			<p>Date</p>
-		</section>
-
-	</div>
-	<div class="4u">
-
-		<section class="box special">
-			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
-			<h3>News Item Name</h3>
-			<p>Date</p>
-		</section>
-
-	</div>
-	<div class="4u">
-
-		<section class="box special">
-			<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>
-			<h3>News Item Name</h3>
-			<p>Date</p>
-		</section>
-
-	</div>
 
 </div>
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Rescue Recital #3: Cello and Piano Duo & Friends"
+title:  "Cello and Piano Duo & Friends"
 date:   2017-05-27 19:00:00 -0400
 categories: event events
+description: "The PSO's newest cellist, Karissa Zadinsky, and pianist Francesca Tortorello perform Beethoven, Chopin, and Jancek Pohodka"
 ---
 
 ##### Rescue Recital  #3

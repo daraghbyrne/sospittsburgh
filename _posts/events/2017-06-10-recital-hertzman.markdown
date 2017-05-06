@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Rescue Recital #4: The Hertzman Residence"
+title:  "Upcoming House Concert"
 date:   2017-06-10 18:30:00 -0400
 categories: event events
+description: Upcoming House Concert at the Hertzman Residence. More details to be announced soon.  
 ---
 
 ##### Rescue Recital  #4

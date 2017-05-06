@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Big Band Music with the Pittsburgh Symphony Brass"
+title:  "Big Band Music "
 date:   2017-04-05 18:30:00 -0400
 categories: event events
+description: Big Band Music with the Pittsburgh Symphony Brass at Wallace’s TapRoom at the Hotel Indigo
 ---
 
 
@@ -12,8 +13,6 @@ categories: event events
 #### 123 North Highland Avenue 
 
 > SOS is a grassroots non-profit whose mission is to promote and support the world class excellence and stature of the Pittsburgh Symphony Orchestra and to ensure its preservation in our community for future generations. 
-
-
 
 The evening’s schedule:
 

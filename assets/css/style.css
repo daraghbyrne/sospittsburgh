@@ -1470,4 +1470,19 @@
 			text-align: left;
 			
 		}
+		.box.special.rescue-recital{
+			padding: 2em;	
 			
+		}
+			
+		.box.special.rescue-recital span.date{
+			display: block;
+			margin-bottom: 5px;
+		}
+			
+		.box.special.rescue-recital p{
+			font-size: 0.85em;
+			margin: 0 0 0.1em 0;
+			line-height: 1.45em;
+			
+		}
