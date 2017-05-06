@@ -84,7 +84,7 @@ layout: default
 
 				<section class="box special">
 					<!--<span class="image featured"><img src="{{ site.baseurl }}/assets/images/pic02.jpg" alt="" /></span>-->
-					<h3>Geoff McGovern</h3>
+					<h3>Geoffrey McGovern</h3>
 					<p> Vice Chair</p>
 				</section>
 
@@ -142,7 +142,7 @@ layout: default
 <a name="news" />
 		
 		
-<div class="row">
+<!-- <div class="row">
 	<div class="12u">
 		<header class="major">
 			<h2>What we're up to
@@ -176,9 +176,9 @@ layout: default
 			<p>Date</p>
 		</section>
 
-	</div>		
+	</div>
 
-</div>	
+</div>	 -->
 
 <a name="contact" />
 
