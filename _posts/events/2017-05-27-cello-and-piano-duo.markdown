@@ -16,7 +16,7 @@ with wine Reception to follow
 | __WHEN:__  | 7 P.M. Saturday, May 27, 2017  |
 | __WHAT:__  | An intimate recital of Beethoven, Chopin, and Jancek Pohodka  |
 | __WHERE:__  | [PYCO Recital Hall](http://www.pycoschoolofmusic.com) 150 Lake Drive, Wexford, PA  |
-| __RSVP:__  | __By May 24.__ Limit 100 guests. Our last event sold out so please send your checks in early or order online. Your name will be on a guest list at the door. |  
+| __RSVP:__  | __By May 27.__ Limit 100 guests. Our last event sold out so please send your checks in early or order online. Your name will be on a guest list at the door. |  
 
 Suggested donation: $50 per person. Larger donations gladly accepted.
 
