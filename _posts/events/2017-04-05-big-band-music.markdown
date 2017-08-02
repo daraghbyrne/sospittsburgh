@@ -7,10 +7,10 @@ description: Big Band Music with the Pittsburgh Symphony Brass at Wallace’s Ta
 ---
 
 
-##### Rescue Recital  #2
-### Big Band Music with the Pittsburgh Symphony Brass 
-#### April 5, 2017 at Wallace’s TapRoom at the Hotel Indigo
-#### 123 North Highland Avenue 
+#### Rescue Recital  #2
+## Big Band Music with the Pittsburgh Symphony Brass 
+### April 5, 2017 at Wallace’s TapRoom at the Hotel Indigo
+### 123 North Highland Avenue 
 
 > SOS is a grassroots non-profit whose mission is to promote and support the world class excellence and stature of the Pittsburgh Symphony Orchestra and to ensure its preservation in our community for future generations. 
 

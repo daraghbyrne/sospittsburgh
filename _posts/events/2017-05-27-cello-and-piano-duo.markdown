@@ -6,9 +6,9 @@ categories: event events
 description: "The PSO's newest cellist, Karissa Zadinsky, and pianist Francesca Tortorello perform Beethoven, Chopin, and Janacek Pohodka"
 ---
 
-##### Rescue Recital  #3
-### A Chamber Music Recital & Party Featuring The Mighty Cellos Of The Pittsburgh Symphony Orchestra
-#### PYCO Recital Hall 150 Lake Drive, Wexford, PA
+#### Rescue Recital  #3
+## A Chamber Music Recital & Party Featuring The Mighty Cellos Of The Pittsburgh Symphony Orchestra
+### PYCO Recital Hall 150 Lake Drive, Wexford, PA
 
 > The PSO’s newest cellist, __Karissa Zadinsky__, and pianist __Francesca Tortorello__ perform Beethoven, Chopin, and Janacek Pohodka.
 > with special guest: Mikhail Istomin, cello 

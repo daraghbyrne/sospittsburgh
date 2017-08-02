@@ -6,9 +6,9 @@ categories: event events
 description: Private House Concert at the Hertzman Residence.
 ---
 
-##### Rescue Recital  #4
-#### June 10, The Hertzman Residence
-#### Fox Chapel Area
+#### Rescue Recital  #4
+## June 10, The Hertzman Residence
+### Fox Chapel Area
 
 A private concert, dinner and drinks to benefit the nonprofit group Save Our Symphony Pittsburgh with PSO's premier woodwind quintet, featuring
 

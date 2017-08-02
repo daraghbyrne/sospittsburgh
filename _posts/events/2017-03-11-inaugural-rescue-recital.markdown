@@ -6,13 +6,13 @@ categories: event events
 description: An intimate recital of chamber music by Rachmaninov, Dohnanyi, Handel-Halverson, and Mahler.
 ---
 
-### A CHAMBER MUSIC PARTY featuring PITTSBURGH SYMPHONY ORCHESTRA MUSICIANS:
+## A CHAMBER MUSIC PARTY featuring PITTSBURGH SYMPHONY ORCHESTRA MUSICIANS:
 
 
-#### Jennifer Orchard, violin 
-#### Tatjana Mead Chamis, viola 
-#### Mikhail Istomin, cello
-#### with CMU Artist Lecturer Dimitri Papadimitriou, piano
+### Jennifer Orchard, violin 
+### Tatjana Mead Chamis, viola 
+### Mikhail Istomin, cello
+### with CMU Artist Lecturer Dimitri Papadimitriou, piano
 
 
 > _Introducing a grassroots non-profit startup: Save our Symphony Pittsburgh_ <br/>
