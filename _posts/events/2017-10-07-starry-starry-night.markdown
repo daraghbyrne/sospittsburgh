@@ -28,8 +28,6 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 
 __Minimum donation:__ $50 per person. Larger donations gladly accepted.
 
-General Seating. Your name will be on a guest list at the door.
-
-RSVP by [getting your tickets online](https://squareup.com/store/save-our-symphony-pittsburgh) or send checks made out to SOS Pittsburgh to: 5868-A Ellsworth Avenue, Pittsburgh,15232.
+General Seating. Your name will be on a guest list at the door. RSVP by [getting your tickets online](https://squareup.com/store/save-our-symphony-pittsburgh) or send checks made out to SOS Pittsburgh to: 5868-A Ellsworth Avenue, Pittsburgh, 15232.
 
 One hundred percent of your donation goes into our donor-designated fund, through the Pittsburgh Foundation, to promote community outreach and support of the Pittsburgh Symphony Orchestra and its musicians.
