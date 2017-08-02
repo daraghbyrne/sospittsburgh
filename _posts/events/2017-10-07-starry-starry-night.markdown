@@ -13,9 +13,10 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 
 ---
 
-> Join us for a brilliant evening of Music from Jazz to Classics featuring:<br/>
-> _Flute:_ Lorna McGhee (principal), Jennifer Steele; <br/>
-> _Jazz Piano:_ Harold Smoliar (principal English Horn); Violin: Jeremy Black, Lorien Hart, Claudia Mahave, Jennifer Orchard <br/>
+> ### Join us for a brilliant evening of Music from Jazz to Classics featuring:<br/>
+> _Flute:_ Lorna McGhee (_principal_), Jennifer Steele; <br/>
+> _Jazz Piano:_ Harold Smoliar (_principal English Horn_); <br/>
+> _Violin:_ Jeremy Black, Lorien Hart, Claudia Mahave, Jennifer Orchard <br/>
 > _Cello:_ Mikhail Istomin <br/>
 > _Double Bass:_  Jeff Turner<br/>
 		 
