@@ -6,10 +6,10 @@ categories: event events
 description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The Members of the Pittsburgh Symphony Orchestra"
 ---
 
-### Starry Starry Night
-#### Saturday, October 7th, 2017, 7pm at [Rodef Shalom](https://rodefshalom.org)
 
 #### Rescue Recital  #5
+## Starry Starry Night
+### Saturday, October 7th, 2017, 7pm at [Rodef Shalom](https://rodefshalom.org)
 
 ---
 
