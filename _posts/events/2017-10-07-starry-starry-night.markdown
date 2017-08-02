@@ -23,7 +23,7 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 | __WHEN:__  | 7 P.M. Saturday, October 7, 2017  |
 | __WHAT:__  | A Recital Party featuring Music from Jazz to Classics   |
 | __WHERE:__  | Levy Recital Hall, [Rodef Shalom](https://rodefshalom.org), 4905 Fifth Ave, Pittsburgh, PA 15213 <br/> with an 8:30 PM Reception in Aaron Court |
-| __RSVP:__  | __By May 27.__ Limit 300 guests. Please RSVP by sending your checks in early or by ordering online. |  
+| __RSVP:__  | __By Oct 5.__ Limit 300 guests. Please RSVP by sending your checks in early or by ordering online. |  
 
 __Minimum donation:__ $50 per person. Larger donations gladly accepted.
 
