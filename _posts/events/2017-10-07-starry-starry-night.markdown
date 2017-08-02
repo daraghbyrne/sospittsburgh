@@ -18,7 +18,7 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 > _Jazz Piano:_ Harold Smoliar (_principal English Horn_); <br/>
 > _Violin:_ Jeremy Black, Lorien Hart, Claudia Mahave, Jennifer Orchard <br/>
 > _Cello:_ Mikhail Istomin <br/>
-> _Double Bass:_  Jeff Turner<br/>
+> _Double Bass:_ Jeff Turner<br/>
 		 
 
 | __WHEN:__  | 7 P.M. Saturday, October 7, 2017  |
