@@ -46,7 +46,7 @@ layout: default
 		</ul>
 	</section>
   </div>
-{% endfor %}
+{% endfor %} 
 
 
 </div>
