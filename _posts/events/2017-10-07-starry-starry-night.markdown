@@ -8,21 +8,23 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 
 ##### Rescue Recital  #5
 ### Starry Starry Night
-#### Saturday 7pm, October 7th 2017 at [Rodef Shalom](https://rodefshalom.org)
+#### Saturday, October 7th, 2017, 7pm at [Rodef Shalom](https://rodefshalom.org)
 
-> Join us for a brilliant evening of Music from Jazz to Classics featuring:
-> _Flute:_ Lorna McGhee (principal), Jennifer Steele; 
-> _Jazz Piano:_ Harold Smoliar (principal English Horn); Violin: Jeremy Black, Lorien Hart, Claudia Mahave, Jennifer Orchard 
-> _Cello:_ Mikail Istomin 
-> _Double Bass:_  Jeff Turner
+---
+
+> Join us for a brilliant evening of Music from Jazz to Classics featuring:<br/>
+> _Flute:_ Lorna McGhee (principal), Jennifer Steele; <br/>
+> _Jazz Piano:_ Harold Smoliar (principal English Horn); Violin: Jeremy Black, Lorien Hart, Claudia Mahave, Jennifer Orchard <br/>
+> _Cello:_ Mikhail Istomin <br/>
+> _Double Bass:_  Jeff Turner<br/>
 		 
 
 | __WHEN:__  | 7 P.M. Saturday, October 7, 2017  |
 | __WHAT:__  | A Recital Party featuring Music from Jazz to Classics   |
 | __WHERE:__  | Levy Recital Hall [Rodef Shalom](https://rodefshalom.org), 4905 Fifth Ave, Pittsburgh, PA 15213 <br/> with an 8:30 PM Reception in Aaron Court |
-| __RSVP:__  | __By May 27.__ Limit 100 guests. Our last event sold out so please send your checks in early or order online. Your name will be on a guest list at the door. |  
+| __RSVP:__  | __By May 27.__ Limit 300 guests. Please RSVP by sending your checks in early or by ordering online. Your name will be on a guest list at the door. |  
 
-Suggested donation: $50 per person ($25 youth.) Larger donations gladly accepted.
+__Minimum donation:__ $50 per person. Larger donations gladly accepted.
 
 RSVP by [getting your tickets online](https://squareup.com/store/save-our-symphony-pittsburgh) or send checks made out to SOS Pittsburgh to: 5868-A Ellsworth Avenue, Pittsburgh,15232.
 
