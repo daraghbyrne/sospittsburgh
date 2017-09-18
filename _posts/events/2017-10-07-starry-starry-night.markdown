@@ -11,13 +11,17 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 ## Starry Starry Night
 ### Saturday, October 7th, 2017, 7pm at [Rodef Shalom](https://rodefshalom.org)
 
+![Starry Starry Night](starrynight.png)
 
-> #### Join us for a brilliant evening of Music from Jazz to Classics featuring:<br/>
-> _Flute:_ Lorna McGhee (_principal_), Jennifer Steele; <br/>
-> _Jazz Piano:_ Harold Smoliar (_principal English Horn_); <br/>
-> _Violin:_ Jeremy Black, Lorien Hart, Claudia Mahave, Jennifer Orchard <br/>
-> _Cello:_ Mikhail Istomin <br/>
-> _Double Bass:_ Jeff Turner
+> #### Join us for a brilliant evening of Music from “Baroque to Blues” featuring: <br/>
+> _Flute:_ Lorna McGhee and Jennifer Steele; <br/>
+> _Piano:_ Rodrigo Ojeda; <br/>
+> _Drum Set:_ Andrew Reamer; <br/>
+> _Violin:_ Jennifer Orchard, Jeremy Black, Kelsey Blumenthal, Lorien Hart and Claudia Mahave;  <br/>
+> _Viola:_ Marylene Gingras-Roy; <br/>
+> _Cello:_ Mikhail Istomin; <br/>
+> _Bass:_ Jeffrey Turner and Jeffrey Grubbs
+		 
 		 
 
 | __WHEN:__  | 7 P.M. Saturday, October 7, 2017  |
