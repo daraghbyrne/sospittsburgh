@@ -11,7 +11,9 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 ## Starry Starry Night
 ### Saturday, October 7th, 2017, 7pm at [Rodef Shalom](https://rodefshalom.org)
 
-<img src="/assets/images/event-starrynight.png" alt="Starry Starry Night" width="100%">
+<p>
+	<img src="/assets/images/event-starrynight.png" alt="Starry Starry Night" width="100%">
+</p>
 
 > #### Join us for a brilliant evening of Music from “Baroque to Blues” featuring: <br/>
 > _Flute:_ Lorna McGhee and Jennifer Steele; <br/>
