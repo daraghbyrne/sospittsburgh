@@ -11,7 +11,7 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 ## Starry Starry Night
 ### Saturday, October 7th, 2017, 7pm at [Rodef Shalom](https://rodefshalom.org)
 
-![Starry Starry Night]({{ site.baseurl }}/assets/images/event-starrynight.png | width=100)
+![Starry Starry Night](/assets/images/event-starrynight.png | width=100)
 
 <a href="https://squareup.com/store/save-our-symphony-pittsburgh" target="_blank">
 	<img src="/assets/images/event-starrynight.png" alt="Starry Starry Night - Rescue Recital #5" width="100%">
