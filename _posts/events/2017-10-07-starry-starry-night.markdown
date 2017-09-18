@@ -22,7 +22,8 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 > _Cello:_ Mikhail Istomin; <br/>
 > _Bass:_ Jeffrey Turner and Jeffrey Grubbs
 		 
-		 
+#### Reserve your spot today by: [RSVP'ing online now](https://squareup.com/store/save-our-symphony-pittsburgh)
+
 
 | __WHEN:__  | 7 P.M. Saturday, October 7, 2017  |
 | __WHAT:__  | A Recital Party featuring Music from Jazz to Classics   |
