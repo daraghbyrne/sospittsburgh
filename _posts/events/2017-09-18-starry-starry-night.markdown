@@ -25,7 +25,8 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 > _Viola:_ Marylene Gingras-Roy; <br/>
 > _Cello:_ Mikhail Istomin; <br/>
 > _Bass:_ Jeffrey Grubbs
-		 
+
+
 #### Reserve your spot today by: __[RSVP'ing online now](https://squareup.com/store/save-our-symphony-pittsburgh)__
 
 <br/>
