@@ -10,19 +10,13 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
-			<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
-		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/jquery.scrollgress.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/init.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/jquery.rss.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skel.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style-desktop.css" />
-		</noscript>
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie8.css" /><![endif]-->
+		
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
+		
 		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
 		
 
@@ -32,7 +26,11 @@
 		<!-- Banner -->
 		
 		<body class="landing">
+			<div id="page-wrapper">
+			
 			<a name="top" ></a>
+			{% include nav.html %}
+			
 			<section id="banner">
 				<img src="assets/images/logo.jpeg" width="50%" />
 				<br/>
@@ -46,8 +44,8 @@
 	{% else %}
 		<body>
 			<a name="top" ></a>
+			{% include nav.html %}
 			<section id="banner"></section>
 	{% endif %}
-	{% include nav.html %}
 	<!-- Main -->
 	<section id="main" class="container">
