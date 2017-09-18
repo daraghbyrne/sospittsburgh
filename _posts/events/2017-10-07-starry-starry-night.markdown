@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starry Starry Night"
-date:   2017-07-07 19:00:00 -0400
+date:   2017-10-07 19:00:00 -0400
 categories: event events
 description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The Members of the Pittsburgh Symphony Orchestra"
 ---
