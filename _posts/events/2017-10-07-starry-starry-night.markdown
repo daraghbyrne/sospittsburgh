@@ -11,7 +11,7 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 ## Starry Starry Night
 ### Saturday, October 7th, 2017, 7pm at [Rodef Shalom](https://rodefshalom.org)
 
-![Starry Starry Night]({{ site.baseurl }}/assets/images/starrynight.png)
+![Starry Starry Night]({{ site.baseurl }}/assets/images/event-starrynight.png)
 
 > #### Join us for a brilliant evening of Music from “Baroque to Blues” featuring: <br/>
 > _Flute:_ Lorna McGhee and Jennifer Steele; <br/>
@@ -22,8 +22,9 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 > _Cello:_ Mikhail Istomin; <br/>
 > _Bass:_ Jeffrey Turner and Jeffrey Grubbs
 		 
-#### Reserve your spot today by: [RSVP'ing online now](https://squareup.com/store/save-our-symphony-pittsburgh)
+#### Reserve your spot today by: __[RSVP'ing online now](https://squareup.com/store/save-our-symphony-pittsburgh)__
 
+<br/>
 
 | __WHEN:__  | 7 P.M. Saturday, October 7, 2017  |
 | __WHAT:__  | A Recital Party featuring Music from Jazz to Classics   |
