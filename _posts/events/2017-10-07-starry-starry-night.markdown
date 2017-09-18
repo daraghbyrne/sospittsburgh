@@ -12,7 +12,7 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 ### Saturday, October 7th, 2017, 7pm at [Rodef Shalom](https://rodefshalom.org)
 
 <a href="https://squareup.com/store/save-our-symphony-pittsburgh" target="_blank">
-	<img src="/assets/images/event-starrynight.png" alt="Starry Starry Night" width="100%">
+	<img src="/assets/images/event-starrynight.png" alt="Starry Starry Night - Rescue Recital #5" width="100%">
 </a>
 
 > #### Join us for a brilliant evening of Music from “Baroque to Blues” featuring: <br/>
