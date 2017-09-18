@@ -13,7 +13,6 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 
 ![Starry Starry Night]({{ site.baseurl }}/assets/images/event-starrynight.png | width=100)
 
-
 <a href="https://squareup.com/store/save-our-symphony-pittsburgh" target="_blank">
 	<img src="/assets/images/event-starrynight.png" alt="Starry Starry Night - Rescue Recital #5" width="100%">
 </a>
@@ -25,7 +24,7 @@ description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The
 > _Violin:_ Jennifer Orchard, Jeremy Black, Kelsey Blumenthal, Lorien Hart and Claudia Mahave;  <br/>
 > _Viola:_ Marylene Gingras-Roy; <br/>
 > _Cello:_ Mikhail Istomin; <br/>
-> _Bass:_ Jeffrey Turner and Jeffrey Grubbs
+> _Bass:_ Jeffrey Grubbs
 		 
 #### Reserve your spot today by: __[RSVP'ing online now](https://squareup.com/store/save-our-symphony-pittsburgh)__
 
