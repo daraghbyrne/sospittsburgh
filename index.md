@@ -262,9 +262,10 @@ layout: default
 		</header>
 	</div>
 
-	<div id="#rss-feeds">
-	</div>
-	
+	  <div id="rss-feeds"></div>
+	  <div id="rss-feeds-test"></div>
+		
+
 
 		<div class="3u">
 
