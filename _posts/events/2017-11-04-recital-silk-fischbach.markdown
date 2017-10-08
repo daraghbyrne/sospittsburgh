@@ -14,8 +14,8 @@ description: "A private house concert at the Silk and Fischbach residence featur
 > _Oboe:_ Scott Bell; <br/>
 > _Clarinet:_ Ron Samuels; <br/>
 > _Violin:_ Dennis O’Boyle; <br/>
-> _Viola:_ Andrew Wickesberg; <br/>
-> _Double Bass:_ John Moore; <br/>
+> _Viola:_ Andrew Wickesberg; and <br/>
+> _Double Bass:_ John Moore; 
 
 __Please note this is a private concert for invited guests of Yael Silk and Jordan Fischbach.__
 
