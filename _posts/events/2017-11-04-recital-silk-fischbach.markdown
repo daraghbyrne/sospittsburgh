@@ -3,23 +3,21 @@ layout: post
 title:  "Rescue Recital #6 - Private House Concert"
 date:   2017-11-18 18:30:00 -0400
 categories: event events
-description: "An evening of Jazz and Paintings featuring PSO Musicians Harold Smoliar (piano) & Jeff Grubbs (bass)"
+description: "A private house concert at the Silk and Fischbach residence featuring PSO Musicians - The Trapeze Ensemble"
 ---
-
 
 #### Rescue Recital  #6
 ## Private House Concert
-### Saturday, November 18th, 2017, 6.30pm at the Stephen Hankin Studio & Art Gallery 
+### Saturday, November 4th, 2017, Home of Yael Silk and Jordan Fischbach.
 
+> #### Join us for an evening of music featuring _'The Trapeze Ensemble'_ <br/>
+> _Oboe:_ Scott Bell; <br/>
+> _Clarinet:_ Ron Samuels; <br/>
+> _Violin:_ Dennis O’Boyle; <br/>
+> _Viola:_ Andrew Wickesberg; <br/>
+> _Double Bass:_ John Moore; <br/>
 
-<img src="/assets/images/event-hankin.jpeg" alt="Rescue Recital #6 - An evening of Jazz and Paintings" width="100%" style="min-width: 100px; max-width: 100%">
-
-
-> #### Join us for an evening of Jazz and Paintings featuring  <br/>
-> _Piano:_ Harold Smoliar; <br/>
-> _Bass:_ Jeff Grubbs; <br/>
-
-__Please note this is a private concert for invited guests of Stephen Hankin and Janice Kelly.__
+__Please note this is a private concert for invited guests of Yael Silk and Jordan Fischbach.__
 
 __Minimum donation:__ $50 per person. Larger donations gladly accepted.
 
