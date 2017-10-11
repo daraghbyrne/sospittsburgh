@@ -17,6 +17,13 @@ description: "A private house concert at the Fischbach and Silk residence featur
 > _Viola:_ Andrew Wickesberg; and <br/>
 > _Double Bass:_ John Moore; 
 
+##### Event Schedule
+
+| _7pm_  | Hor d’oeuvres  |
+| _8pm_  | Concert  |
+| _9pm_  | Dessert  |
+
+
 __Please note this is a private concert for invited guests of Yael Silk and Jordan Fischbach.__
 
 __Minimum donation:__ $50 per person. Larger donations gladly accepted.
