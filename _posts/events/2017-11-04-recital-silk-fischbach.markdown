@@ -17,7 +17,7 @@ description: "A private house concert at the Fischbach and Silk residence featur
 > _Viola:_ Andrew Wickesberg; and <br/>
 > _Double Bass:_ John Moore; 
 
-##### Event Schedule
+##### __Event Schedule__
 
 | _7pm_  | Hor d’oeuvres  |
 | _8pm_  | Concert  |
