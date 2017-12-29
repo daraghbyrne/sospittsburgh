@@ -253,7 +253,7 @@ layout: default
 	
 <a name="upcoming-events" />
 
-		
+<!--		
 <div class="row">
 	<div class="12u">
 		<header class="major">
@@ -306,3 +306,4 @@ layout: default
 </div>	
 
 
+-->
