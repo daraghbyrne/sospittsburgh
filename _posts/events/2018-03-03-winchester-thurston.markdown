@@ -14,9 +14,9 @@ description: "Performances by members of the PSO, including WT parents Sarah Cle
 
 > #### Join us for an evening celebrating musical greatness in Pittsburgh. Featuring  <br/>
 > Sarah Clendenning; and <br/>
-> William Caballero <br/>
+> William Caballero 
 
-#### __Details__
+### __Details__
  
 A Save Our Symphony Pittsburgh concert at Winchester Thurston School, followed by a discussion with the musicians.  This intimate concert is perfect for music lovers of all ages.  Performances by members of the PSO, including WT parents Sarah Clendenning and William Caballero, will celebrate musical greatness in Pittsburgh. After the concert, stay for a reception and meet some of the PSO mucisians.  
 
