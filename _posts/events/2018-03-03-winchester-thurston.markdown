@@ -12,13 +12,13 @@ description: "Performances by members of the PSO, including WT parents Sarah Cle
 ### Saturday, March 3, 2018, 6.30pm at the Winchester Thurston School
 
 
-> #### Join us for an evening celebrating musical greatness in Pittsburgh. Featuring  <br/>
-> _Violin:_ Christopher Wu; <br/>
-> _Violin and viola:_ Sarah Clendenning; <br/>
-> _Viola:_ Andrew Wickesberg; <br/>
-> _Cello:_ Anne Martindale Williams; and <br/>
-> _Horn:_ Bill Caballero.
+#### Join us for an evening celebrating musical greatness in Pittsburgh. _Featuring_  
 
+- _Violin:_ Christopher Wu; <br/>
+- _Violin and viola:_ Sarah Clendenning; <br/>
+- _Viola:_ Andrew Wickesberg; <br/>
+- _Cello:_ Anne Martindale Williams; and <br/>
+- _Horn:_ Bill Caballero.
 
 ### __Details__
  
