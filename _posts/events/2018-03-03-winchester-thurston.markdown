@@ -12,7 +12,7 @@ description: "Performances by members of the PSO, including WT parents Sarah Cle
 ### Saturday, March 3, 2018, 6.30pm at the Winchester Thurston School
 
 
-#### Join us for an evening celebrating musical greatness in Pittsburgh. _Featuring_  
+#### Join us for an evening celebrating musical greatness in Pittsburgh. _Featuring:_  
 
 - _Violin:_ Christopher Wu; <br/>
 - _Violin and viola:_ Sarah Clendenning; <br/>
