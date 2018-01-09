@@ -11,6 +11,8 @@ description: "Performances by members of the PSO, including WT parents Sarah Cle
 ## Winchester Thurston School
 ### Saturday, March 3, 2018, 6.30pm at the Winchester Thurston School
 
+<img src="/assets/images/event-wt.jpg" alt="Rescue Recital #8 - Winchester Thurston School" width="100%" style="min-width: 100px; max-width: 100%">
+
 
 #### Join us for an evening celebrating musical greatness in Pittsburgh. _Featuring:_  
 
