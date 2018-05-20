@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rescue Recital #10 - Private Event"
-date:   2017-06-02 18:00:00 -0400
+date:   2018-06-02 18:00:00 -0400
 categories: event events
 description: "An evening of Music and Native American Art featuring PSO Musicians Harold Smoliar, Max Blair and Scott Bell (oboes)"
 ---
@@ -13,7 +13,7 @@ description: "An evening of Music and Native American Art featuring PSO Musician
 
 
 <img src="/assets/images/event-four-winds.jpeg" alt="Rescue Recital #10 - an evening combining music and native american art" width="100%" style="min-width: 100px; max-width: 100%">
-
+ 
 
 > #### Join us for an evening of Music and Native American Art featuring:  <br/>
 > _Oboe:_ Harold Smoliar; <br/>
