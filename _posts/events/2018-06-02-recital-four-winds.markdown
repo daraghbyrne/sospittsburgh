@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Rescue Recital #10 - Private Event"
-date:   2017-11-18 18:30:00 -0400
+date:   2017-06-02 18:00:00 -0400
 categories: event events
-description: "An evening of Jazz and Paintings featuring PSO Musicians Harold Smoliar (piano) & Jeff Grubbs (bass)"
+description: "An evening of Music and Native American Art featuring PSO Musicians Harold Smoliar, Max Blair and Scott Bell (oboes)"
 ---
 
 
