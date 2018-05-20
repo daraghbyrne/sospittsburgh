@@ -12,7 +12,7 @@ description: "An evening of Jazz and Paintings featuring PSO Musicians Harold Sm
 ### Saturday, June 2nd, 2018, 6.00pm at the Four Winds Gallery
 
 
-<img src="/assets/images/event-hankin.jpeg" alt="Rescue Recital #10 - an evening combining music and native american art" width="100%" style="min-width: 100px; max-width: 100%">
+<img src="/assets/images/event-four-winds.jpeg" alt="Rescue Recital #10 - an evening combining music and native american art" width="100%" style="min-width: 100px; max-width: 100%">
 
 
 > #### Join us for an evening of Music and Native American Art featuring:  <br/>
