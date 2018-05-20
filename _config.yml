@@ -23,7 +23,7 @@ github_username:  sospittsburgh
 
 paginate: 10
 
-future: true
+#future: true
 
 
 # Build settings
