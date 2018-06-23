@@ -18,7 +18,8 @@ description: "A private concert featuring a piano trio with Rodrigo Ojeda and mu
 
 > #### Join us for a piano trio and a performance including Piazzolla’s Four Seasons of Buenos Aires, featuring  <br/>
 > _Piano:_ Rodrigo Ojeda; <br/>
-> _and more to be announced soon!_ 
+> _Cello:_ Bronwyn Banerdt; and <br/>
+> _Violin:_ To be announced!_ 
 
 __Please note this is a private concert for invited guests of Lisa & Harry Levinson.__
 
