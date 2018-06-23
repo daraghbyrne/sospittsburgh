@@ -13,12 +13,12 @@ description: "A private concert featuring a piano trio with Rodrigo Ojeda and mu
 ### Sunday, July 22nd, 2018 6.30pm at the home of Lisa & Harry Levinson
 
 
-<img src="/assets/images/event-levinson.png" alt="Rescue Recital #11 - Private House Concert" width="100%" style="min-width: 100px; max-width: 100%">
+<img src="/assets/images/event-levinson.png" alt="Rescue Recital #11 - Private House Concert" width="100%" style="min-width: 100px; max-width: 30%">
 
 
 > #### Join us for a piano trio and a performance including Piazzolla’s Four Seasons of Buenos Aires, featuring  <br/>
 > _Piano:_ Rodrigo Ojeda; <br/>
-> _and more to be announced soon!_ <br/>
+> _and more to be announced soon!_ 
 
 __Please note this is a private concert for invited guests of Lisa & Harry Levinson.__
 
