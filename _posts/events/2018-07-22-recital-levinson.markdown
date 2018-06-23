@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rescue Recital #11 - Private House Concert"
-date:   2017-11-18 18:30:00 -0400
+date:   2018-07-22 18:30:00 -0400
 categories: event events
 description: "A private concert featuring a piano trio with Rodrigo Ojeda and musicians of the Pittsburgh Symphony Orchestra.
 "
