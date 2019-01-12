@@ -27,7 +27,7 @@ description: "The music of French composers accompanied by the artwork of renown
 
 ##### __Event Details__
  
-| __WHEN:__  | 6.30 P.M. Sunday, Friday, February 1st, 2019. Reception to follow.  |
+| __WHEN:__  | 6.30 P.M. Friday, February 1st, 2019. Reception to follow.  |
 | __COST:__  | __Minimum donation:__ $50 per person. Larger donations gladly accepted. Limit 35 tickets. |
 | __RSVP:__  | By [getting your tickets online](https://squareup.com/store/save-our-symphony-pittsburgh) or send checks made out to SOS Pittsburgh to: 5868-A Ellsworth Avenue, Pittsburgh, 15232. |  
 
