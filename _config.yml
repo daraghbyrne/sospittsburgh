@@ -19,7 +19,9 @@ description: Save Our Symphony Pittsburgh is a grassroots organization made up o
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sospittsburgh
-github_username:  sospittsburgh
+github_username:  sos-pittsburgh
+
+contact-form: saveoursymphony.pittsburgh@gmail.com
 
 paginate: 10
 
