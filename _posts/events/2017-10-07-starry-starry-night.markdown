@@ -1,11 +1,13 @@
 ---
+title: Starry Starry Night
+date: 2017-10-07 19:00:00 -04:00
+categories:
+- event
+- events
 layout: post
-title:  "Starry Starry Night"
-date:   2017-10-07 19:00:00 -0400
-categories: event events
-description: "A Recital Party at Rodef Shalom on October 7th with our Stars: The Members of the Pittsburgh Symphony Orchestra"
+description: 'A Recital Party at Rodef Shalom on October 7th with our Stars: The Members
+  of the Pittsburgh Symphony Orchestra'
 ---
-
 
 #### Rescue Recital  #5
 ## Starry Starry Night

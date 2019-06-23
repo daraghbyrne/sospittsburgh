@@ -1,11 +1,13 @@
 ---
+title: 'Rescue Recital #9 - Art &amp; Music at the Frick'
+date: 2018-05-03 18:30:00 -04:00
+categories:
+- event
+- events
 layout: post
-title:  "Rescue Recital #9 - Art &amp; Music at the Frick"
-date:   2018-05-03 18:30:00 -0400
-categories: event events
-description: "Members of the PSO celebrate the Mellon Collection of French Art at the Frick"
+description: Members of the PSO celebrate the Mellon Collection of French Art at the
+  Frick
 ---
-
 
 #### Rescue Recital  #9
 ## Art and Music at the Frick
