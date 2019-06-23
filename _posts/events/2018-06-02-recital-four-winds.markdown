@@ -1,11 +1,13 @@
 ---
+title: 'Rescue Recital #10 - Four Winds'
+date: 2018-06-02 18:00:00 -04:00
+categories:
+- event
+- events
 layout: post
-title:  "Rescue Recital #10 - Four Winds"
-date:   2018-06-02 18:00:00 -0400
-categories: event events
-description: "An evening of Music and Native American Art featuring PSO Musicians Harold Smoliar, Max Blair and Scott Bell (oboes)"
+description: An evening of Music and Native American Art featuring PSO Musicians Harold
+  Smoliar, Max Blair and Scott Bell (oboes)
 ---
-
 
 #### Rescue Recital  #10
 ## Four Winds Gallery

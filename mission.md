@@ -1,8 +1,10 @@
 ---
-layout: page
 title: Mission
-permalink: /mission/
-description: The mission of Save Our Symphony Pittsburgh is to promote and support the world-class excellence and stature of the Pittsburgh Symphony Orchestra and to ensure its preservation in our community for future generations. 
+permalink: "/mission/"
+layout: page
+description: The mission of Save Our Symphony Pittsburgh is to promote and support
+  the world-class excellence and stature of the Pittsburgh Symphony Orchestra and
+  to ensure its preservation in our community for future generations.
 ---
 
 ### Strategic Vision

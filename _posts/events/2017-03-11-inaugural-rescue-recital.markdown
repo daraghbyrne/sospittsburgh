@@ -1,9 +1,12 @@
 ---
+title: Inaugural 'Rescue Recital'
+date: 2017-03-11 17:30:00 -05:00
+categories:
+- event
+- events
 layout: post
-title:  "Inaugural 'Rescue Recital'"
-date:   2017-03-11 18:30:00 -0400
-categories: event events
-description: An intimate recital of chamber music by Rachmaninov, Dohnanyi, Handel-Halverson, and Mahler.
+description: An intimate recital of chamber music by Rachmaninov, Dohnanyi, Handel-Halverson,
+  and Mahler.
 ---
 
 ## A CHAMBER MUSIC PARTY featuring PITTSBURGH SYMPHONY ORCHESTRA MUSICIANS:

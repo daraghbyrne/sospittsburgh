@@ -1,11 +1,13 @@
 ---
+title: 'Rescue Recital #8 - Winchester Thurston School'
+date: 2018-03-03 17:30:00 -05:00
+categories:
+- event
+- events
 layout: post
-title:  "Rescue Recital #8 - Winchester Thurston School"
-date:   2018-03-03 18:30:00 -0400
-categories: event events
-description: "Performances by members of the PSO, including WT parents Sarah Clendenning and William Caballero, will celebrate musical greatness in Pittsburgh."
+description: Performances by members of the PSO, including WT parents Sarah Clendenning
+  and William Caballero, will celebrate musical greatness in Pittsburgh.
 ---
-
 
 #### Rescue Recital  #8
 ## Winchester Thurston School

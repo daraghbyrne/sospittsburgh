@@ -1,11 +1,13 @@
 ---
+title: 'Big Band Music '
+date: 2017-04-05 18:30:00 -04:00
+categories:
+- event
+- events
 layout: post
-title:  "Big Band Music "
-date:   2017-04-05 18:30:00 -0400
-categories: event events
-description: Big Band Music with the Pittsburgh Symphony Brass at Wallace’s TapRoom at the Hotel Indigo
+description: Big Band Music with the Pittsburgh Symphony Brass at Wallace’s TapRoom
+  at the Hotel Indigo
 ---
-
 
 #### Rescue Recital  #2
 ## Big Band Music with the Pittsburgh Symphony Brass 

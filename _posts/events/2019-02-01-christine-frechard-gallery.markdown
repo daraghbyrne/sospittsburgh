@@ -1,12 +1,13 @@
 ---
+title: 'Rescue Recital #12 - Christine Fréchard Gallery'
+date: 2019-02-01 17:30:00 -05:00
+categories:
+- event
+- events
 layout: post
-title:  "Rescue Recital #12 - Christine Fréchard Gallery"
-date:   2019-02-01 18:30:00 -0400
-categories: event events
-description: "The music of French composers accompanied by the artwork of renowned artist, Elizabeth Neel.
-"
+description: 'The music of French composers accompanied by the artwork of renowned
+  artist, Elizabeth Neel. '
 ---
-
 
 #### Rescue Recital  #12
 ## Art & Music at the Christine Fréchard Gallery.
