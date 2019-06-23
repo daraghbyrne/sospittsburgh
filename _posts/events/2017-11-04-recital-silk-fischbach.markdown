@@ -1,9 +1,12 @@
 ---
+title: 'Rescue Recital #6 - Private House Concert'
+date: 2017-11-04 19:00:00 -04:00
+categories:
+- event
+- events
 layout: post
-title:  "Rescue Recital #6 - Private House Concert"
-date:   2017-11-04 19:00:00 -0400
-categories: event events
-description: "A private house concert at the Fischbach and Silk residence featuring PSO Musicians - The Trapeze Ensemble"
+description: A private house concert at the Fischbach and Silk residence featuring
+  PSO Musicians - The Trapeze Ensemble
 ---
 
 #### Rescue Recital  #6

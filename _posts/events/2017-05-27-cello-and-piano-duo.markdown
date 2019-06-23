@@ -1,9 +1,12 @@
 ---
+title: A Chamber Music Recital and Party with special guests
+date: 2017-05-27 19:00:00 -04:00
+categories:
+- event
+- events
 layout: post
-title:  "A Chamber Music Recital and Party with special guests"
-date:   2017-05-27 19:00:00 -0400
-categories: event events
-description: "The PSO's newest cellist, Karissa Zadinsky, and pianist Francesca Tortorello perform Beethoven, Chopin, and Janacek Pohodka"
+description: The PSO's newest cellist, Karissa Zadinsky, and pianist Francesca Tortorello
+  perform Beethoven, Chopin, and Janacek Pohodka
 ---
 
 #### Rescue Recital  #3

@@ -3,8 +3,6 @@ title: Save Our Symphony Pittsburgh
 layout: default
 ---
 
-
-
 <section class="box special">
 	<header class="major">
 		<h2>

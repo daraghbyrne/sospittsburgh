@@ -1,11 +1,13 @@
 ---
+title: 'Rescue Recital #7 - Private House Concert'
+date: 2017-11-18 17:30:00 -05:00
+categories:
+- event
+- events
 layout: post
-title:  "Rescue Recital #7 - Private House Concert"
-date:   2017-11-18 18:30:00 -0400
-categories: event events
-description: "An evening of Jazz and Paintings featuring PSO Musicians Harold Smoliar (piano) & Jeff Grubbs (bass)"
+description: An evening of Jazz and Paintings featuring PSO Musicians Harold Smoliar
+  (piano) & Jeff Grubbs (bass)
 ---
-
 
 #### Rescue Recital  #7
 ## Private House Concert

@@ -1,10 +1,10 @@
 ---
+title: Welcome to SOS Pittsburgh!
+date: 2017-02-01 20:51:27 -05:00
+categories:
+- updates
 layout: post
-title:  "Welcome to SOS Pittsburgh!"
-date:   2017-02-01 21:51:27 -0400
-categories: updates
 ---
-
 
 ### Introducing Save Our Symphony Pittsburgh
 

@@ -1,8 +1,10 @@
 ---
+title: 'Rescue Recital #4 - Private House Concert'
+date: 2017-06-10 18:30:00 -04:00
+categories:
+- event
+- events
 layout: post
-title:  "Rescue Recital #4 - Private House Concert"
-date:   2017-06-10 18:30:00 -0400
-categories: event events
 description: Private House Concert at the Hertzman Residence.
 ---
 

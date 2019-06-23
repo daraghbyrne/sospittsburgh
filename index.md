@@ -65,7 +65,7 @@ layout: default
 	<div class="features-row">
 		<section>
 			<h3>1. Attend Concerts</h3>
-			<p>First and formost, buy an <a href="https://pittsburghsymphony.org/pso_home/web/tickets-landing">annual subscription</a> to the PSO, attend concerts often and if you can, donate to the PSO's <a href="https://pittsburghsymphony.org/pso_home/web/give-landing">annual fund</a></p>
+			<p>First and formost, buy an <a href="https://pittsburghsymphony.org/pso_home/web/tickets-landing">annual subscription</a> to the PSO, attend concerts often and if you can, donate to the PSO's <a href="https://pittsburghsymphony.org/pso_home/web/give-landing" target="_blank">annual fund</a></p>
 		</section>
 		<section>
 			<h3>2. Host a Rescue Recital</h3>
