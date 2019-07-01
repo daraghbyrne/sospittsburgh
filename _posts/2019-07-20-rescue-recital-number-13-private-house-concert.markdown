@@ -1,6 +1,9 @@
 ---
 title: 'Rescue Recital #13 - Private House Concert'
-date: 2019-07-01 10:00:00 -04:00
+date: 2019-07-20 18:30:00 -04:00
+categories:
+- event
+- events
 description: A private concert featuring a piano trio with Rodrigo Ojeda and musicians
   of the Pittsburgh Symphony Orchestra.
 ---
