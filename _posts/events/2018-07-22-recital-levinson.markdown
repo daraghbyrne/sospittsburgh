@@ -1,6 +1,7 @@
 ---
 title: 'Rescue Recital #11 - Private House Concert'
 date: 2018-07-22 18:30:00 -04:00
+published: false
 categories:
 - event
 - events
