@@ -14,6 +14,8 @@ description: A private concert featuring a piano trio with Rodrigo Ojeda and mus
 
 ### Saturday, July 20th, 2019 6.30pm at the home of Connie and Mike Phillips
 
+<img src="/assets/images/event-levinson.png" alt="Rescue Recital #11 - Private House Concert" width="100%" style="min-width: 100px; max-width: 30%">
+
 > You're invited to a concert featuring a piano trio led by Rodrigo Ojeda, with Pittsburgh Symphony musicians Dennis O’Boyle, violin, and Will Chow, cello. in a performance including Piazzolla’s Four Seasons of Buenos Aires and Paul Schoenfield’s Café Music.
 
 **Please note this is a private concert for invited guests of Connie and Mike Phillips.**
