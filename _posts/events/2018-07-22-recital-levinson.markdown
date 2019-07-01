@@ -34,5 +34,7 @@ layout: post
 ##### **Event Details**
 
 | **WHEN:**  | 6.30 P.M. Sunday, July 22nd, 2018. Reception to follow.  |
+| **COST:**  | **Minimum donation:** $50 per person. Larger donations gladly accepted. Limit 35 tickets. |
+| **RSVP:**  | By [getting your tickets online](https://squareup.com/store/save-our-symphony-pittsburgh) or send checks made out to SOS Pittsburgh to: 5868-A Ellsworth Avenue, Pittsburgh, 15232. |
 
 *Proceeds from the event benefit the Save Our Symphony Pittsburgh Fund at the Pittsburgh Foundation.  Contributions are tax deductible and 100% of donations are devoted to the SOS Fund at the Pittsburgh Foundation.*
