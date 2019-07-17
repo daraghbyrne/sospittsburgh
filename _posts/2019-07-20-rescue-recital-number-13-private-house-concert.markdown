@@ -4,8 +4,8 @@ date: 2019-07-20 18:30:00 -04:00
 categories:
 - event
 - events
-description: A private concert featuring a piano trio with Rodrigo Ojeda and musicians
-  of the Pittsburgh Symphony Orchestra.
+description: Sold Out - A private concert featuring a piano trio with Rodrigo Ojeda
+  and musicians of the Pittsburgh Symphony Orchestra.
 ---
 
 #### Rescue Recital  #13
