@@ -1,5 +1,5 @@
 ---
-title: 'Rescue Recital #13 - Private House Concert'
+title: 'Sold Out - Rescue Recital #13 - Private House Concert'
 date: 2019-07-20 18:30:00 -04:00
 categories:
 - event
