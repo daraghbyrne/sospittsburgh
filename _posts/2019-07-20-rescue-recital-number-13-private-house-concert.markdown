@@ -8,9 +8,9 @@ description: Sold Out - A private concert featuring a piano trio with Rodrigo Oj
   and musicians of the Pittsburgh Symphony Orchestra.
 ---
 
-#### Sold Out - Rescue Recital  #13
+#### Rescue Recital  #13
 
-## Private House Concert
+## Sold Out - Private House Concert
 
 ### Saturday, July 20th, 2019 6.30pm at the home of Connie and Mike Phillips
 
