@@ -8,7 +8,7 @@ description: Sold Out - A private concert featuring a piano trio with Rodrigo Oj
   and musicians of the Pittsburgh Symphony Orchestra.
 ---
 
-#### Rescue Recital  #13
+#### Sold Out - Rescue Recital  #13
 
 ## Private House Concert
 
