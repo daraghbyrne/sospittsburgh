@@ -26,7 +26,6 @@ description: Celebrate Clara Schumann’s 200th birthday with a private concert 
 
 > You are invited to celebrate Clara Schumann’s 200th birthday in a Pittsburgh mansion!The concert features chamber music by Clara Schumann and Amy Beach performed by PSO musicians Alison Peters Fujito, violin, and Karissa Zadinsky Shivone, cello, with pianist Nanette Kaplan Solomon. Seating limited to among the first 40 to respond .
 
-
 **Please note this is a private concert for invited guests of Nanette and Jonathan Solomon.**
 
 ##### **Event Schedule**
