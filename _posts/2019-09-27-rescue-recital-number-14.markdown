@@ -21,7 +21,7 @@ Description: Sold Out - A private concert featuring a piano trio with Rodrigo Oj
 
 ### Friday, September 27, 2019, 6.30pm at the home of Nanette and Jonathan Solomon, Shadyside
 
-
+![clara-schumann-1819-1896-granger.jpg](/uploads/clara-schumann-1819-1896-granger.jpg)
 
 > You're invited to a concert featuring a piano trio led by Rodrigo Ojeda, with Pittsburgh Symphony musicians Dennis O’Boyle, violin, and Will Chow, cello. in a performance including Piazzolla’s Four Seasons of Buenos Aires and Paul Schoenfield’s Café Music.
 
