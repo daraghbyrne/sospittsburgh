@@ -9,8 +9,10 @@ tags:
 - music
 - recital
 - performance
-Description: Sold Out - A private concert featuring a piano trio with Rodrigo Ojeda
-  and musicians of the Pittsburgh Symphony Orchestra.
+Description: Celebrate Clara Schumann’s 200th birthday with a private concert featuring
+  chamber music by Clara Schumann and Amy Beach performed by PSO musicians Alison
+  Peters Fujito, violin, and Karissa Zadinsky Shivone, cello, with pianist Nanette
+  Kaplan Solomon.
 ---
 
 #### Rescue Recital  #14
@@ -21,21 +23,22 @@ Description: Sold Out - A private concert featuring a piano trio with Rodrigo Oj
 
 ### Friday, September 27, 2019, 6.30pm at the home of Nanette and Jonathan Solomon, Shadyside
 
-![clara-schumann-1819-1896-granger.jpg](/uploads/clara-schumann-1819-1896-granger.jpg)
+![clara-schumann-1819-1896-granger-5bbebd.jpg](/uploads/clara-schumann-1819-1896-granger-5bbebd.jpg)
 
-> You're invited to a concert featuring a piano trio led by Rodrigo Ojeda, with Pittsburgh Symphony musicians Dennis O’Boyle, violin, and Will Chow, cello. in a performance including Piazzolla’s Four Seasons of Buenos Aires and Paul Schoenfield’s Café Music.
+> You are invited to celebrate Clara Schumann’s 200th birthday in a Pittsburgh mansion!The concert features chamber music by Clara Schumann and Amy Beach performed by PSO musicians Alison Peters Fujito, violin, and Karissa Zadinsky Shivone, cello, with pianist Nanette Kaplan Solomon. Seating limited to among the first 40 to respond .
+
 
 **Please note this is a private concert for invited guests of Nanette and Jonathan Solomon.**
 
 ##### **Event Schedule**
 
 | *6.30pm*  | Social |
-| *7.15pm*  | Concert |
-| *8.15pm*  | Reception with Wine, Appetizers, and Desserts |
+| *7.00pm*  | Concert |
+| *8.00pm*  | Reception with Wine, Appetizers, and Desserts |
 
 ##### **Event Details**
 
-| **WHEN:**  | 6.30 P.M. Saturday, July 20th, 2019. Reception to follow.  |
+| **WHEN:**  | 6.00 P.M. Friday, September 27, 2019. Reception to follow.  |
 | **COST:**  | **Minimum donation:** $50 per person. Larger donations gladly accepted. Limit 40 tickets. |
 | **RSVP:**  | By [getting your tickets online](https://squareup.com/store/save-our-symphony-pittsburgh) or send checks made out to SOS Pittsburgh to: 5868-A Ellsworth Avenue, Pittsburgh, 15232. |
 
