@@ -1,7 +1,16 @@
 ---
 title: 'Rescue Recital #14 - Private House Concert'
-date: 2019-08-15 07:57:00 -04:00
+date: 2019-09-27 18:30:00 -04:00
 published: false
+categories:
+- event
+- events
+tags:
+- music
+- recital
+- performance
+Description: Sold Out - A private concert featuring a piano trio with Rodrigo Ojeda
+  and musicians of the Pittsburgh Symphony Orchestra.
 ---
 
 #### Rescue Recital  #14
