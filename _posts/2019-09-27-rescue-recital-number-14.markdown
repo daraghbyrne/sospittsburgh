@@ -8,7 +8,7 @@ tags:
 - music
 - recital
 - performance
-Description: Celebrate Clara Schumann’s 200th birthday with a private concert featuring
+description: Celebrate Clara Schumann’s 200th birthday with a private concert featuring
   chamber music by Clara Schumann and Amy Beach performed by PSO musicians Alison
   Peters Fujito, violin, and Karissa Zadinsky Shivone, cello, with pianist Nanette
   Kaplan Solomon.
