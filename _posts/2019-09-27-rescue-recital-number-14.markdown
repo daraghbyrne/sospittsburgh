@@ -15,21 +15,23 @@ Description: Sold Out - A private concert featuring a piano trio with Rodrigo Oj
 
 #### Rescue Recital  #14
 
+### Happy Birthday, Clara! (September 13, 1819)
+
 ## Private House Concert
 
-### Saturday, July 20th, 2019 6.30pm at the home of Connie and Mike Phillips
+### Friday, September 27, 2019, 6.30pm at the home of Nanette and Jonathan Solomon, Shadyside
 
-<img src="/assets/images/event-levinson.png" alt="Rescue Recital #13 - Private House Concert" width="100%" style="min-width: 100px; max-width: 30%">
+
 
 > You're invited to a concert featuring a piano trio led by Rodrigo Ojeda, with Pittsburgh Symphony musicians Dennis O’Boyle, violin, and Will Chow, cello. in a performance including Piazzolla’s Four Seasons of Buenos Aires and Paul Schoenfield’s Café Music.
 
-**Please note this is a private concert for invited guests of Connie and Mike Phillips.**
+**Please note this is a private concert for invited guests of Nanette and Jonathan Solomon.**
 
 ##### **Event Schedule**
 
-| *6.30pm*  | Wine and Cheese |
+| *6.30pm*  | Social |
 | *7.15pm*  | Concert |
-| *8.15pm*  | Reception |
+| *8.15pm*  | Reception with Wine, Appetizers, and Desserts |
 
 ##### **Event Details**
 
