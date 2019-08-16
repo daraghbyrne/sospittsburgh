@@ -21,7 +21,6 @@ description: Celebrate Clara Schumann’s 200th birthday with a private concert 
 ### Friday, September 27, 2019, 6.30pm at the home of Nanette and Jonathan Solomon, Shadyside
 
 ![clara-schumann-1819-1896-granger-5bbebd.jpg](/uploads/clara-schumann-1819-1896-granger-5bbebd.jpg)
-
 #### Happy Birthday, Clara! (September 13, 1819)
 
 > You are invited to celebrate Clara Schumann’s 200th birthday in a Pittsburgh mansion!The concert features chamber music by Clara Schumann and Amy Beach performed by PSO musicians Alison Peters Fujito, violin, and Karissa Zadinsky Shivone, cello, with pianist Nanette Kaplan Solomon. Seating limited to among the first 40 to respond .
