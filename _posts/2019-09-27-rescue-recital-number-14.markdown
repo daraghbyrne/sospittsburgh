@@ -1,6 +1,6 @@
 ---
-title: 'Rescue Recital #14 - Private House Concert'
-date: 2019-09-27 18:30:00 -04:00
+title: Rescue Recital - Private House Concert
+date: 2019-09-27 18:00:00 -04:00
 categories:
 - event
 - events
@@ -14,9 +14,7 @@ description: Celebrate Clara Schumann’s 200th birthday with a private concert 
   Kaplan Solomon.
 ---
 
-#### Rescue Recital  #14
-
-### Happy Birthday, Clara! (September 13, 1819)
+#### Rescue Recital
 
 ## Private House Concert
 
@@ -24,14 +22,15 @@ description: Celebrate Clara Schumann’s 200th birthday with a private concert 
 
 ![clara-schumann-1819-1896-granger-5bbebd.jpg](/uploads/clara-schumann-1819-1896-granger-5bbebd.jpg)
 
-> You are invited to celebrate Clara Schumann’s 200th birthday in a Pittsburgh mansion!The concert features chamber music by Clara Schumann and Amy Beach performed by PSO musicians Alison Peters Fujito, violin, and Karissa Zadinsky Shivone, cello, with pianist Nanette Kaplan Solomon. Seating limited to among the first 40 to respond .
+### Happy Birthday, Clara! (September 13, 1819)
 
+> You are invited to celebrate Clara Schumann’s 200th birthday in a Pittsburgh mansion!The concert features chamber music by Clara Schumann and Amy Beach performed by PSO musicians Alison Peters Fujito, violin, and Karissa Zadinsky Shivone, cello, with pianist Nanette Kaplan Solomon. Seating limited to among the first 40 to respond .
 
 **Please note this is a private concert for invited guests of Nanette and Jonathan Solomon.**
 
 ##### **Event Schedule**
 
-| *6.30pm*  | Social |
+| *6.00pm*  | Social |
 | *7.00pm*  | Concert |
 | *8.00pm*  | Reception with Wine, Appetizers, and Desserts |
 
