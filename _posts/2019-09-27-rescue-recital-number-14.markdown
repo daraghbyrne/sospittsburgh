@@ -1,5 +1,5 @@
 ---
-title: 'Rescue Recital #14 - Private House Concert'
+title: Rescue Recital - Private House Concert
 date: 2019-09-27 18:30:00 -04:00
 categories:
 - event
