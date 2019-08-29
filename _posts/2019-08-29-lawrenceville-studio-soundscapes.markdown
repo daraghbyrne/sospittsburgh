@@ -12,7 +12,7 @@ description: An evening of chamber music featuring music of Debussy and Dvorak p
 
 ## Art Studio Concert
 
-### Friday, September 27, 2019, 6.00pm at the home of Nanette and Jonathan Solomon, Shadyside
+### Tuesday, October 15, 2019, 6.00pm at ?
 
 > You are invited to an evening of chamber music featuring music of Debussy and Dvorak performed by PSO musicians Jennifer Orchard, violin, Laura Motchalov, violin, Tatjana Chamis, viola, Mikhail Istomin, cello, John Moore, double bass, and Gretchen Van Hoesen, harp. Seating limited to among the first 40 to respond .
 
@@ -24,7 +24,7 @@ description: An evening of chamber music featuring music of Debussy and Dvorak p
 
 ##### **Event Details**
 
-| **WHEN:**  | 6.00 P.M. Friday, September 27, 2019. Reception to follow.  |
+| **WHEN:**  | 6.00 P.M. ?, October ?, 2019. Reception to follow.  |
 | **COST:**  | **Minimum donation:** $50 per person. Larger donations gladly accepted. Limit 40 tickets. |
 | **RSVP:**  | By [getting your tickets online](https://squareup.com/store/save-our-symphony-pittsburgh) or send checks made out to SOS Pittsburgh to: 5868-A Ellsworth Avenue, Pittsburgh, 15232. |
 
