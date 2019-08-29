@@ -1,6 +1,13 @@
 ---
 title: Lawrenceville Studio Soundscapes
 date: 2019-08-29 14:24:00 -04:00
+categories:
+- event
+- events
+tags:
+- recital
+- music
+- performance
 description: An evening of chamber music featuring music of Debussy and Dvorak performed
   by PSO musicians Jennifer Orchard, violin, Laura Motchalov, violin, Tatjana Chamis,
   viola, Mikhail Istomin, cello, John Moore, double bass, and Gretchen Van Hoesen,
