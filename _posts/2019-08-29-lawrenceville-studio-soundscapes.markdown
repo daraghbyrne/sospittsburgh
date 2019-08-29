@@ -12,7 +12,7 @@ description: An evening of chamber music featuring music of Debussy and Dvorak p
 
 ## Art Studio Concert
 
-### Tuesday, October 15, 2019, 6.00pm at ?
+### Tuesday, October 15, 2019, 6.00pm at Ron Donoughe Studio, 208 Main Street, 2nd Floor, Pittsburgh, PA 15201
 
 > You are invited to an evening of chamber music featuring music of Debussy and Dvorak performed by PSO musicians Jennifer Orchard, violin, Laura Motchalov, violin, Tatjana Chamis, viola, Mikhail Istomin, cello, John Moore, double bass, and Gretchen Van Hoesen, harp. Seating limited to among the first 40 to respond .
 
