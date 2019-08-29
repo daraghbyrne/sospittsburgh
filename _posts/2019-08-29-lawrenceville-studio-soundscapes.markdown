@@ -24,7 +24,7 @@ description: An evening of chamber music featuring music of Debussy and Dvorak p
 
 ##### **Event Details**
 
-| **WHEN:**  | 6.00 P.M. ?, October ?, 2019. Reception to follow.  |
+| **WHEN:**  | 6.00 P.M. Tuesday , October 15, 2019. Reception to follow.  |
 | **COST:**  | **Minimum donation:** $50 per person. Larger donations gladly accepted. Limit 40 tickets. |
 | **RSVP:**  | By [getting your tickets online](https://squareup.com/store/save-our-symphony-pittsburgh) or send checks made out to SOS Pittsburgh to: 5868-A Ellsworth Avenue, Pittsburgh, 15232. |
 
