@@ -1,6 +1,6 @@
 ---
 title: Lawrenceville Studio Soundscapes
-date: 2019-08-29 14:24:00 -04:00
+date: 2019-10-15 18:00:00 -04:00
 categories:
 - event
 - events
