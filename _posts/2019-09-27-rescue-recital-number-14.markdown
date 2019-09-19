@@ -1,5 +1,5 @@
 ---
-title: Rescue Recital - Private House Concert
+title: Sold Out - Rescue Recital - Private House Concert
 date: 2019-09-27 18:00:00 -04:00
 categories:
 - event
