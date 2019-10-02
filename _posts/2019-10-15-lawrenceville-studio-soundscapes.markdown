@@ -1,5 +1,5 @@
 ---
-title: Lawrenceville Studio Soundscapes
+title: Sold Out - Lawrenceville Studio Soundscapes
 date: 2019-10-15 18:00:00 -04:00
 categories:
 - event
