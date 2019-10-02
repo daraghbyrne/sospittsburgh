@@ -14,7 +14,7 @@ description: An evening of chamber music featuring music of Debussy and Dvorak p
   harp.
 ---
 
-#### Lawrenceville Studio Soundscapes
+#### Sold Out - Lawrenceville Studio Soundscapes
 
 ## Art Studio Concert
 
