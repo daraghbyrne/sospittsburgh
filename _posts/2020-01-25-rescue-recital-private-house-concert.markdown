@@ -1,5 +1,5 @@
 ---
-title: Rescue Recital - Private House Concert
+title: 'Rescue Recital #14 - Private House Concert'
 date: 2020-01-25 18:30:00 -05:00
 categories:
 - event
@@ -12,7 +12,7 @@ description: You are invited to a special performance of Pittsburgh Symphony Orc
   Cellists, Michael Lipman, Bronwyn Banerdt, William Chow, and Charlie Powers.
 ---
 
-Rescue Recital
+Rescue Recital #14
 
 ## Private House Concert
 
