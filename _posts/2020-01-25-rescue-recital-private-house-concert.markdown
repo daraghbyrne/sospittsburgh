@@ -18,7 +18,7 @@ Rescue Recital #14
 
 ### Saturday, January 25, 2020, 6.30pm at the home of Mr. and Mrs. Matsliach, Summerset
 
-![Bronwyn artwork 4 cellists.jpg](/uploads/Bronwyn%20artwork%204%20cellists.jpg)
+![Bronwyn artwork 4 cellists-0edc43.jpg](/uploads/Bronwyn%20artwork%204%20cellists-0edc43.jpg)
 
 > You are invited to a performance of cello quartet music with Pittsburgh Symphony Orchestra Cellists, Michael Lipman, Bronwyn Banerdt, William Chow, and Charlie Powers.
 >
