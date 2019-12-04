@@ -12,14 +12,11 @@ Rescue Recital
 
 ## Private House Concert
 
-### Saturday, January 25, 2020, 6.30pm at the home of Mr. and Mrs. Matsliach, 
+### Saturday, January 25, 2020, 6.30pm at the home of Mr. and Mrs. Matsliach, Summerset
 
-
-Happy Birthday, Clara! (September 13, 1819)
-
-> You are invited to celebrate Clara Schumann’s 200th birthday in a Pittsburgh mansion!The concert features chamber music by Clara Schumann and Amy Beach performed by PSO musicians Alison Peters Fujito, violin, and Karissa Zadinsky Shivone, cello, with pianist Nanette Kaplan Solomon. Seating limited to among the first 40 to respond .
-
-**Please note this is a private concert for invited guests of Nanette and Jonathan Solomon.**
+> You are invited to a performance of cello quartet music with Pittsburgh Symphony Orchestra cellists, Michael Lipman, Bronwyn Banerdt, William Chow, and Charlie Powers.
+>
+> **Please note this is a private concert for invited guests of Mr. and Mrs. Matsliach.**
 
 ##### **Event Schedule**
 
