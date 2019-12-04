@@ -1,16 +1,20 @@
 ---
 title: Rescue Recital - Private House Concert
-date: 2019-12-04 17:25:00 -05:00
+date: 2020-01-25 18:30:00 -05:00
 published: false
+description: Celebrate Clara Schumann’s 200th birthday with a private concert featuring
+  chamber music by Clara Schumann and Amy Beach performed by PSO musicians Alison
+  Peters Fujito, violin, and Karissa Zadinsky Shivone, cello, with pianist Nanette
+  Kaplan Solomon.
 ---
 
 Rescue Recital
 
 ## Private House Concert
 
-### Friday, September 27, 2019, 6.30pm at the home of Nanette and Jonathan Solomon, Shadyside
+### Saturday, January 25, 2020, 6.30pm at the home of Mr. and Mrs. Matsliach, 
 
-![clara-schumann-1819-1896-granger-5bbebd.jpg](/api/v2/sites/5d0eac08c1d67049cd067148/source/_uploads/clara-schumann-1819-1896-granger-5bbebd.jpg?download)
+
 Happy Birthday, Clara! (September 13, 1819)
 
 > You are invited to celebrate Clara Schumann’s 200th birthday in a Pittsburgh mansion!The concert features chamber music by Clara Schumann and Amy Beach performed by PSO musicians Alison Peters Fujito, violin, and Karissa Zadinsky Shivone, cello, with pianist Nanette Kaplan Solomon. Seating limited to among the first 40 to respond .
@@ -21,7 +25,7 @@ Happy Birthday, Clara! (September 13, 1819)
 
 | *6.30pm*  | Social |
 | *7.00pm*  | Concert |
-| *8.00pm*  | Reception with Wine, Appetizers, and Desserts |
+| *8.00pm*  | Reception with Wine and Cheese |
 
 ##### **Event Details**
 
