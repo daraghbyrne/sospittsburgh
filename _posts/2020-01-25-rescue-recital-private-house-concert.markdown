@@ -24,7 +24,7 @@ Rescue Recital
 
 ##### **Event Details**
 
-| **WHEN:**  | 6.30 P.M. Friday, September 27, 2019. Reception to follow.  |
+| **WHEN:**  | 6.30 P.M. Saturday, January 25, 2020. Reception to follow.  |
 | **COST:**  | **Minimum donation:** $50 per person. Larger donations gladly accepted. Limit 40 tickets. |
 | **RSVP:**  | By [getting your tickets online](https://squareup.com/store/save-our-symphony-pittsburgh) or send checks made out to SOS Pittsburgh to: 5868-A Ellsworth Avenue, Pittsburgh, 15232. |
 
