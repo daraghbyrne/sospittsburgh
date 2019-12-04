@@ -2,10 +2,8 @@
 title: Rescue Recital - Private House Concert
 date: 2020-01-25 18:30:00 -05:00
 published: false
-description: Celebrate Clara Schumann’s 200th birthday with a private concert featuring
-  chamber music by Clara Schumann and Amy Beach performed by PSO musicians Alison
-  Peters Fujito, violin, and Karissa Zadinsky Shivone, cello, with pianist Nanette
-  Kaplan Solomon.
+description: You are invited to a special performance of Pittsburgh Symphony Orchestra
+  Cellists, Michael Lipman, Bronwyn Banerdt, William Chow, and Charlie Powers.
 ---
 
 Rescue Recital
@@ -14,7 +12,7 @@ Rescue Recital
 
 ### Saturday, January 25, 2020, 6.30pm at the home of Mr. and Mrs. Matsliach, Summerset
 
-> You are invited to a performance of cello quartet music with Pittsburgh Symphony Orchestra cellists, Michael Lipman, Bronwyn Banerdt, William Chow, and Charlie Powers.
+> You are invited to a performance of cello quartet music with Pittsburgh Symphony Orchestra Cellists, Michael Lipman, Bronwyn Banerdt, William Chow, and Charlie Powers.
 >
 > **Please note this is a private concert for invited guests of Mr. and Mrs. Matsliach.**
 
