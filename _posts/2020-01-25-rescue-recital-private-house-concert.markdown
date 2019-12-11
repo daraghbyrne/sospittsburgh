@@ -22,7 +22,7 @@ Rescue Recital #14
 
 > You are invited to a performance of cello quartet music with Pittsburgh Symphony Orchestra Cellists, Michael Lipman, Bronwyn Banerdt, William Chow, and Charlie Powers.
 >
-> **Please note this is a private concert for invited guests of Mr. and Mrs. Matsliach.**
+> **Please note this is a private concert at the home of Mr. and Mrs. Matsliach.**
 
 ##### **Event Schedule**
 
