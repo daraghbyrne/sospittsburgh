@@ -10,8 +10,8 @@ tags:
 - performance
 description: "‘Winter Light‘ - enjoy the the delicate, warm timbres of flute, viola
   and harp in the comfort of a lovely Lawrenceville home with PSO musicians Lorna
-  McGhee, flute and Gretchen Van Hoesen, and Carnegie Mellon Faculty Member, David
-  Harding, viola."
+  McGhee, flute and Gretchen Van Hoesen, harp,  and Carnegie Mellon Faculty Member,
+  David Harding, viola."
 ---
 
 Rescue Recital #17
