@@ -7,23 +7,23 @@ Rescue Recital #17
 
 ## Winter Light - Private House Concert
 
-### Saturday, January 25, 2020, 6.30pm at the home of Mr. and Mrs. Matsliach, Summerset
+### Saturday, February 8, 2020, 3.30pm at the home of Beth Orbison and Paul Cali, Lawrenceville
 
-![Bronwyn artwork 4 cellists-0edc43.jpg](/uploads/Bronwyn%20artwork%204%20cellists-0edc43.jpg)
-
-> You are invited to a performance of cello quartet music with Pittsburgh Symphony Orchestra Cellists, Michael Lipman, Bronwyn Banerdt, William Chow, and Charlie Powers.
+> *‘Winter Light‘* - enjoy the the delicate, warm timbres of flute, viola and harp in the comfort of a lovely Lawrenceville home. The program will feature Debussy’s Trio, one of the last pieces he wrote and the first chamber music work to ever use this atmospheric combination of instruments. We will juxtapose the Debussy with an unusual and vibrant work, “A Vanished World" by Pittsburgh’s own David Stock. The program will also be stocked to the brim with some of our favorite duos and solos from the time of Bach to present day, with the intention of offering community, warmth and light.
 >
-> **Please note this is a private concert at the home of Mr. and Mrs. Matsliach.**
+> Performance by PSO musicians Lorna McGhee, flute and Gretchen Van Hoesen, and Carnegie Mellon Faculty Member, David Harding, viola.
+>
+> **Please note this is a private concert at the home of Beth Orbison and Paul Cali.**
 
 ##### **Event Schedule**
 
-| *6.30pm*  | Social |
-| *7.00pm*  | Concert |
-| *8.00pm*  | Reception with Wine and Cheese |
+| 3\*.30pm\*  | Social |
+| 4\*.00pm\*  | Concert |
+| 5\*.00pm\*  | Reception with Refreshments |
 
 ##### **Event Details**
 
-| **WHEN:**  | 6.30 P.M. Saturday, January 25, 2020. Reception to follow.  |
+| **WHEN:**  | 3.30 P.M. Saturday, February 8, 2020. Reception to follow.  |
 | **COST:**  | **Minimum donation:** $50 per person. Larger donations gladly accepted. Limit 30 tickets. |
 | **RSVP:**  | By [getting your tickets online](https://squareup.com/store/save-our-symphony-pittsburgh) or send checks made out to SOS Pittsburgh to: 5868-A Ellsworth Avenue, Pittsburgh, 15232. |
 
