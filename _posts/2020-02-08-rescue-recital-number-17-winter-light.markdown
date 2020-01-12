@@ -1,6 +1,14 @@
 ---
 title: 'Rescue Recital #17 - Winter Light'
-date: 2020-01-12 12:59:00 -05:00
+date: 2020-02-08 15:30:00 -05:00
+published: false
+categories:
+- event
+- events
+tags:
+- recital
+- music
+- performance
 description: "‘Winter Light‘ - enjoy the the delicate, warm timbres of flute, viola
   and harp in the comfort of a lovely Lawrenceville home with PSO musicians Lorna
   McGhee, flute and Gretchen Van Hoesen, and Carnegie Mellon Faculty Member, David
