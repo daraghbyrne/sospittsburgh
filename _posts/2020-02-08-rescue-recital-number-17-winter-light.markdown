@@ -20,6 +20,8 @@ Rescue Recital #17
 
 ### Saturday, February 8, 2020, 3.30pm at the home of Beth Orbison and Paul Cali, Lawrenceville
 
+![winterLightRescueRecital17small.png.jpeg](/uploads/winterLightRescueRecital17small.png.jpeg)
+
 > *‘Winter Light‘* - enjoy the the delicate, warm timbres of flute, viola and harp in the comfort of a lovely Lawrenceville home. The program will feature Debussy’s Trio, one of the last pieces he wrote and the first chamber music work to ever use this atmospheric combination of instruments. We will juxtapose the Debussy with an unusual and vibrant work, “A Vanished World" by Pittsburgh’s own David Stock. The program will also be stocked to the brim with some of our favorite duos and solos from the time of Bach to present day, with the intention of offering community, warmth and light.
 >
 > Performance by PSO musicians Lorna McGhee, flute and Gretchen Van Hoesen, and Carnegie Mellon Faculty Member, David Harding, viola.
