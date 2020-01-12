@@ -1,7 +1,6 @@
 ---
 title: 'Rescue Recital #17 - Winter Light'
 date: 2020-02-08 15:30:00 -05:00
-published: false
 categories:
 - event
 - events
