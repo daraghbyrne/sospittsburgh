@@ -8,13 +8,13 @@ tags:
 - recital
 - music
 - performance
-description: Sold Out - You are invited to a special performance of Pittsburgh Symphony
-  Orchestra Cellists, Michael Lipman, Bronwyn Banerdt, William Chow, and Charlie Powers.
+description: You are invited to a special performance of Pittsburgh Symphony Orchestra
+  Cellists, Michael Lipman, Bronwyn Banerdt, William Chow, and Charlie Powers.
 ---
 
 Rescue Recital #16
 
-## Private House Concert
+## Sold Out - Private House Concert
 
 ### Saturday, January 25, 2020, 6.30pm at the home of Mr. and Mrs. Matsliach, Summerset
 
