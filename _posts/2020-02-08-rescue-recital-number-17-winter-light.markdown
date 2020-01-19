@@ -1,5 +1,5 @@
 ---
-title: 'Rescue Recital #17 - Winter Light'
+title: 'Sold Out - Rescue Recital #17 - Winter Light'
 date: 2020-02-08 15:30:00 -05:00
 categories:
 - event
@@ -16,7 +16,7 @@ description: "‘Winter Light‘ - enjoy the the delicate, warm timbres of flute
 
 Rescue Recital #17
 
-## Winter Light - Private House Concert
+## Sold Oute - Winter Light - Private House Concert
 
 ### Saturday, February 8, 2020, 3.30pm at the home of Beth Orbison and Paul Cali, Lawrenceville
 
