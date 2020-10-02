@@ -1,6 +1,9 @@
 ---
 title: Private Lawn Concert
 date: 2020-10-10 15:30:00 -04:00
+description: Enjoy an afternoon of music performed by members of the Pittsburgh Symphony
+  Orchestra on the lawn of Robert Snapp's home in Fox Chapel. The program will feature
+  the music of Dvorak, Piazzolla, and more!
 ---
 
 Rescue Recital #18
@@ -11,7 +14,7 @@ Rescue Recital #18
 
 ![winterLightRescueRecital17medium.jpeg](/api/v2/sites/5d0eac08c1d67049cd067148/source/_uploads/winterLightRescueRecital17medium.jpeg?download)
 
-> Enjoy an afternoon of music at on the lawn of Robert Snapp's home in Fox Chapel. The program will feature the music of Dvorak, Piazzolla, and more! Pleae bring your own chair. Due to COVID-19, masks are required at the event, and no food or drink will be provided.
+> Enjoy an afternoon of music on the lawn of Robert Snapp's home in Fox Chapel. The program will feature the music of Dvorak, Piazzolla, and more! Pleae bring your own chair. Due to COVID-19, masks are required at the event, and no food or drink will be provided.
 >
 > Performance by Musicians of the Pittsburgh Symphony Orchestra.
 >
