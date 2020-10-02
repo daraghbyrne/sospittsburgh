@@ -19,7 +19,7 @@ Rescue Recital #18
 
 ### Saturday, October 10, 2020, 3.30pm at the home of Robert Snapp, Fox Chapel
 
-![IMG_1825-de8bac.jpeg](/uploads/IMG_1825-de8bac.jpeg)
+![IMG_1825-7909c7.jpeg](/uploads/IMG_1825-7909c7.jpeg)
 
 > Enjoy an afternoon of music on the beautiful lawn of Robert Snapp's home in Fox Chapel. The program will feature the music of Dvorak, Piazzolla, and more! Pleae bring your own chair. Due to COVID-19, masks are required at the event, and no food or drink will be provided.
 >
