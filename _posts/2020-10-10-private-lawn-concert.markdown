@@ -12,9 +12,9 @@ Rescue Recital #18
 
 ### Saturday, October 10, 2020, 3.30pm at the home of Robert Snapp, Fox Chapel
 
-![winterLightRescueRecital17medium.jpeg](/api/v2/sites/5d0eac08c1d67049cd067148/source/_uploads/winterLightRescueRecital17medium.jpeg?download)
+![IMG_1825.jpeg](/uploads/IMG_1825.jpeg)
 
-> Enjoy an afternoon of music on the lawn of Robert Snapp's home in Fox Chapel. The program will feature the music of Dvorak, Piazzolla, and more! Pleae bring your own chair. Due to COVID-19, masks are required at the event, and no food or drink will be provided.
+> Enjoy an afternoon of music on the beautiful lawn of Robert Snapp's home in Fox Chapel. The program will feature the music of Dvorak, Piazzolla, and more! Pleae bring your own chair. Due to COVID-19, masks are required at the event, and no food or drink will be provided.
 >
 > Performance by Musicians of the Pittsburgh Symphony Orchestra.
 >
