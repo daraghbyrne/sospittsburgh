@@ -1,7 +1,6 @@
 ---
 title: Private Lawn Concert
 date: 2020-10-10 15:30:00 -04:00
-published: false
 categories:
 - event
 - events
