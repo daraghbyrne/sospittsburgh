@@ -25,7 +25,7 @@ Rescue Recital #18
 >
 > Performance by Musicians of the Pittsburgh Symphony Orchestra.
 >
-> **Please note this is a private concert at the home of Robet Snapp.**
+> **Please note this is a private concert at the home of Robert Snapp.**
 
 ##### **Event Schedule**
 
