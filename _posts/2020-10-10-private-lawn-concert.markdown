@@ -1,5 +1,5 @@
 ---
-title: Private Lawn Concert
+title: Sold Out - Private Lawn Concert
 date: 2020-10-10 15:00:00 -04:00
 categories:
 - event
