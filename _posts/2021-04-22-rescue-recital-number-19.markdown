@@ -1,6 +1,9 @@
 ---
 title: 'Rescue Recital #19'
 date: 2021-04-22 14:30:00 -04:00
+description: 'Enjoy an evening of music performed by Musicians of the Pittsburgh Sympony
+  Orchestra on the beautiful lawn of Connie and Mike Phillips'' home in Fox Chapel.
+  The program will feature the music of the Baroque! '
 ---
 
 Rescue Recital #19
