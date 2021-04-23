@@ -19,6 +19,8 @@ Rescue Recital #19
 
 ### Saturday, May 15, 2021, 5.00pm at the home of Connie and Mike Phillips, Fox Chapel
 
+![A Baroque Aperitif.jpeg](/uploads/A%20Baroque%20Aperitif.jpeg)
+
 > Enjoy an evening of music on the beautiful lawn of Connie and Mike Phillips' home in Fox Chapel. The program will feature the music of the Baroque! Please bring your own chair and blanket. Due to COVID-19, masks are required at the event, social distancing of 6 feet will be observed, and no food or drink will be provided.
 >
 > Performance by Musicians of the Pittsburgh Symphony Orchestra and friends -- David Sogg, John Moore, Jeremy Black, Michael Lipman, Jennifer Steele, and Larry Allen.
@@ -27,7 +29,7 @@ Rescue Recital #19
 
 ##### **Event Schedule**
 
-| 5*.00pm*  | Concert |
+| 5\*.00pm\*  | Concert |
 
 **Event Details**
 
