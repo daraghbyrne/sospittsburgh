@@ -1,5 +1,5 @@
 ---
-title: 'Rescue Recital #19'
+title: 'Sold Out - Rescue Recital #19'
 date: 2021-05-15 17:00:00 -04:00
 categories:
 - event
